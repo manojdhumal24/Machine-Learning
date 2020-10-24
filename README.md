@@ -1,4 +1,4 @@
-This repository contains machine learning projects and notebooks for the course of 
+This repository contains machine learning projects and notebooks for the learning content 
 Feel free to checkout and explore.
 
 ### NOTE ABOUT THE Notebook Diff:
